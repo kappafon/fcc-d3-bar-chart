@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fcc-d3-bar-chart/static/css/main.9f6e4d72.chunk.css",
+    "main.js": "/fcc-d3-bar-chart/static/js/main.0e4f3861.chunk.js",
+    "main.js.map": "/fcc-d3-bar-chart/static/js/main.0e4f3861.chunk.js.map",
+    "runtime-main.js": "/fcc-d3-bar-chart/static/js/runtime-main.f2a5002a.js",
+    "runtime-main.js.map": "/fcc-d3-bar-chart/static/js/runtime-main.f2a5002a.js.map",
+    "static/js/2.f58e9697.chunk.js": "/fcc-d3-bar-chart/static/js/2.f58e9697.chunk.js",
+    "static/js/2.f58e9697.chunk.js.map": "/fcc-d3-bar-chart/static/js/2.f58e9697.chunk.js.map",
+    "index.html": "/fcc-d3-bar-chart/index.html",
+    "precache-manifest.b168a3429de7fe9763d20422260100df.js": "/fcc-d3-bar-chart/precache-manifest.b168a3429de7fe9763d20422260100df.js",
+    "service-worker.js": "/fcc-d3-bar-chart/service-worker.js",
+    "static/css/main.9f6e4d72.chunk.css.map": "/fcc-d3-bar-chart/static/css/main.9f6e4d72.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a5002a.js",
+    "static/js/2.f58e9697.chunk.js",
+    "static/css/main.9f6e4d72.chunk.css",
+    "static/js/main.0e4f3861.chunk.js"
+  ]
+}
